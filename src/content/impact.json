@@ -1,0 +1,24 @@
+{
+    "title": "This is the title",
+    "articles": [
+    {
+    "title": "This is a test",
+    "description": "Description",
+    "state": "Utah",
+    "date": "06 June 2020",
+    "link": "www.google.com",
+    "protest": "Utah",
+    "tags": "this is a test tags",
+    "categories": "this is a cat"
+},
+{
+    "title": "This is a test 2",
+    "description": "Description 2",
+    "state": "Utah",
+    "date": "06 June 2020",
+    "link": "www.google.com",
+    "protest": "Utah",
+    "tags": "this is a test tags",
+    "categories": "this is a cat"
+}]
+}
