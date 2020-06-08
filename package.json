@@ -4,6 +4,7 @@
   "description": "A website demonstrating that protests work. Make your voice heard.",
   "version": "0.1.0",
   "license": "MIT",
+  "url": "https://protestswork.com",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
