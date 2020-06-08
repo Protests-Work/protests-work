@@ -1,24 +1,787 @@
 {
-    "title": "This is the title",
+    "title": "Protests Work! Make your voice heard!",
     "articles": [
     {
-    "title": "This is a test",
-    "description": "Description",
-    "state": "Utah",
-    "date": "06 June 2020",
-    "link": "www.google.com",
-    "protest": "Utah",
-    "tags": "this is a test tags",
-    "categories": "this is a cat"
-},
-{
-    "title": "This is a test 2",
-    "description": "Description 2",
-    "state": "Utah",
-    "date": "06 June 2020",
-    "link": "www.google.com",
-    "protest": "Utah",
-    "tags": "this is a test tags",
-    "categories": "this is a cat"
-}]
+        "title": "4 Officers Fired for Mudering George Floyd",
+        "description": "4 Officers were fired for the murder of George Floyd on May 26th by the Minneapolis Police Department.",
+        "location": "Minnesota",
+        "date": "26 May 2020",
+        "link": "https://www.nytimes.com/2020/05/31/us/george-floyd-investigation.html",
+        "protest": "Georgle Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality"
+        ],
+        "categories": ["George Floyd"]
+    },
+    {
+        "title": "University of Minneapolis Cancels Contract with Minneapolis PD",
+        "description": "On the 28th of May the University of Minnesota announced that it would not contact with the Minneapolis Police department after the death of George Floyd. This would affect football games, concerts, and ceremonies.",
+        "location": "Minnesota",
+        "date": "28 May 2020",
+        "link": "https://www.twincities.com/2020/05/28/umn-cuts-ties-with-minneapolis-police-in-light-of-george-floyd-case/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality"
+        ]
+    },
+    {
+        "title": "ATU Local 1005 refuses to bring police officers to the protests, or transport arrested protesters",
+        "description": "On the 28th of May the Amalgamated Transit Union released a statement saying thy would not transport police officers to the protests or transport arrested protestors.",
+        "location": "Minnesota",
+        "date": "28 May 2020",
+        "link": "https://www.commondreams.org/news/2020/05/29/show-solidarity-public-transit-workers-refuse-transport-police-units-or-those",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality"
+        ]
+    },
+    {
+        "title": "Officer Chauvin who killed George Floyd arrested",
+        "description": "On the 28th of May the Amalgamated Transit Union released a statement saying thy would not transport police officers to the protests or transport arrested protestors.",
+        "location": "Minnesota",
+        "date": "28 May 2020",
+        "link": "https://www.commondreams.org/news/2020/05/29/show-solidarity-public-transit-workers-refuse-transport-police-units-or-those",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality"
+        ]
+    },
+    {
+        "title": "Louisville Mayor suspends \"no-knock\" warrants in response to police's 3/12 #BreonnaTaylor killing and subsequent protests",
+        "description": "On the 29th of May 2020, Louisville Mayor Greg Fischer announced at least temporary halt on no-knock warrants. A no-knock warrant had previously led to the police shooting of Breonna Taylor, an emergency room tech, former EMT, and person of color.",
+        "location": "Kentucky",
+        "date": "29 May 2020",
+        "link": "https://www.wdrb.com/community/louisville-mayor-suspends-controversial-no-knock-warrants-used-by-police/article_d0558720-a1bd-11ea-bab9-0b381bddc1ac.html",
+        "protest": "Breonna Taylor",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor"
+        ]
+    },
+    {
+        "title": "US Embassies across Africa condemn police murder of George Floyd",
+        "description": "In a rare and extraordinary move US Embassies all across the African Continent condemned the killing of George Flord by police. Embassies involved: Kenya, Uganda, Tanzania, DR Congo",
+        "location": "World Wide",
+        "date": "30 May 2020",
+        "link": "https://time.com/5845407/us-embassy-africa-condemn-george-floyd/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor"
+        ]
+    },
+    {
+        "title": "MN AG Ellison Takes Over Prosecution of the Officers Involved in Geroge Floyd Case",
+        "description": "IMinnesota Attorney General was asked to assist and lead the prosecution of the officers involved in the murder for George Floyd",
+        "location": "Minnesota",
+        "date": "30 May 2020",
+        "link": "https://minnesota.cbslocal.com/2020/05/31/attorney-general-keith-ellison-to-take-over-george-floyd-case/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality"
+        ]
+    },
+    {
+        "title": "TWU Local 100 Bus Operators refuses to transport arrested protestors",
+        "description": "",
+        "location": "New York",
+        "date": "30 May 2020",
+        "link": "https://time.com/5845451/bus-drivers-protesters-police-george-floyd/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality"
+        ]
+    },
+    {
+        "title": "2 Officers Fired for Pulling a Couple Out of Their Car and Tasing Them",
+        "description": "",
+        "location": "Georgia",
+        "date": "31 May 2020",
+        "link": "https://www.kmov.com/news/watch-atlanta-police-officers-fired-after-dragging-college-students-from-car-tasing-them/article_77b2d677-ed36-586e-a930-120a968c9512.html",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor"
+        ]
+    },
+    {
+        "title": "Confederate Monument removed",
+        "description": "",
+        "location": "Alabama",
+        "date": "01 June 2020",
+        "link": "https://www.npr.org/2020/06/02/867659459/confederate-monument-removed-after-birmingham-mayors-vow-to-finish-the-job",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor"
+        ]
+    },
+    {
+        "title": "CA Prosecutors launch campaign to stop DA’s from accepting police union money",
+        "description": "",
+        "location": "California",
+        "date": "01 June 2020",
+        "link": "https://www.sacbee.com/news/california/article243184411.html",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor"
+        ]
+    },
+    {
+        "title": "Tulsa Mayor Bynum agrees to not renew Live PD contract",
+        "description": "",
+        "location": "Oklahoma",
+        "date": "01 June 2020",
+        "link": "https://www.newson6.com/story/5ed56521311afe409f0454b9/tulsa-mayor-agrees-to-not-renew-live-pd-contract-after-meeting-with-protest-organizers",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor"
+        ]
+    },
+    {
+        "title": "Louisville police chief fired after shooting of #DavidMcatee at BBQ joint",
+        "description": "",
+        "location": "Kentucky",
+        "date": "01 June 2020",
+        "link": "https://www.cbsnews.com/news/steve-conrad-louisville-police-chief-fired-protest-shooting-death/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Confederate statue ordered to be removed",
+        "description": "",
+        "location": "Arkansas",
+        "date": "01 June 2020",
+        "link": "https://arktimes.com/arkansas-blog/2020/06/01/confederate-statue-to-be-removed-from-bentonville-square",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Lawmakers Begin Bipartisan Push to Cut Off Police Access to Military-Style Gear",
+        "description": "",
+        "location": "United States",
+        "date": "01 June 2020",
+        "link": "https://www.nytimes.com/2020/06/01/us/politics/police-military-gear.html",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Minnesota AFL-CIO calls for the resignation of Bob Kroll, the president of the Minneapolis police union",
+        "description": "",
+        "location": "Minnesota",
+        "date": "02 June 2020",
+        "link": "https://www.mnaflcio.org/updates/minnesota-afl-cio-calls-minneapolis-police-union-president-bob-kroll%E2%80%99s-immediate-resignation",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Racist Ex-Mayor Rizzo statue removed",
+        "description": "",
+        "location": "Philedelphia, PA",
+        "date": "02 June 2020",
+        "link": "https://www.nytimes.com/2020/06/03/us/frank-rizzo-statue-removal.html",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "6 abusive officers charged for violence against residents and protestors",
+        "description": "",
+        "location": "Atlanta, GA",
+        "date": "02 June 2020",
+        "link": "https://www.cnn.com/2020/06/03/us/atlanta-police-booked-felony-charges-protest/index.html",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Confederate soldier statue removed",
+        "description": "",
+        "location": "Alexandria, VA",
+        "date": "02 June 2020",
+        "link": "https://wtop.com/alexandria/2020/06/confederate-group-decides-to-remove-alexandria-statue-early/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Robert Lee statue removed",
+        "description": "",
+        "location": "Fort Myers, FL",
+        "date": "02 June 2020",
+        "link": "https://www.news-press.com/story/news/local/2020/06/02/robert-e-lee-bust-removed-fort-myers-post/5316700002/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Civil Rights investigation of Minneapolis Police Dept Launched",
+        "description": "",
+        "location": "Minneapolis, MN",
+        "date": "02 June 2020",
+        "link": "https://apnews.com/c35e8d89079dcb7cf7021ebdb71b04be",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Resolution to prevent law enforcement from hiring officers with history of misconduct announced by San Fran DA Boudin and Supervisor Walton",
+        "description": "",
+        "location": "San Francisco, CA",
+        "date": "02 June 2020",
+        "link": "https://sfdistrictattorney.org/article/district-attorney-boudin-and-supervisor-shamann-walton-announce-resolution-prohibit-hiring",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "NJ AG announces policing reforms",
+        "description": "",
+        "location": "Trenton, NJ",
+        "date": "02 June 2020",
+        "link": "https://www.policeone.com/police-reform/articles/nj-state-attorney-general-announces-police-reforms-following-protests-JQ7dneMn22CbUyhS/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "1 officer fired for tweets promoting violence against protestors",
+        "description": "",
+        "location": "Denver, CO",
+        "date": "03 June 2020",
+        "link": "https://www.denverpost.com/2020/06/02/denver-police-officer-fired-lets-start-a-riot-george-floyd-protest/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Minneapolis Institute of Art, First Avenue, Walker Art Center end use of MPD for events",
+        "description": "",
+        "location": "Minneapolis, MN",
+        "date": "03 June 2020",
+        "link": "https://news.artnet.com/art-world/walker-museum-cuts-ties-minneapolis-police-1878357",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Officer Chauvin charges upgraded to 2nd Murder, and remaining 3 officers also charged and taken into custody",
+        "description": "",
+        "location": "Minneapolis, MN",
+        "date": "03 June 2020",
+        "link": "https://minnesota.cbslocal.com/2020/06/03/george-floyd-death-derek-chauvins-murder-charge-upgraded-to-2nd-degree-unintentional-murder-3-other-officers-charged/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "VA Governor announces removal of Robert E Lee statue",
+        "description": "",
+        "location": "Richmond, VA",
+        "date": "03 June 2020",
+        "link": "https://www.bbc.com/news/world-us-canada-52920610",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Richmond VA Mayor Stoney announces RPD reform measures: establish “Marcus” alert for folks experiencing mental health crises, establish independent Citizen Review Board, an ordinance to remove Confederate monuments, and implement racial equity study",
+        "description": "",
+        "location": "Richmond, VA",
+        "date": "03 June 2020",
+        "link": "https://www.wric.com/news/local-news/richmond/mayor-stoney-commits-to-reform-measures-including-marcus-alert/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "County commissioners deny proposal for $23 million expansion of Fulton County jail",
+        "description": "",
+        "location": "Fulton, GA",
+        "date": "03 June 2020",
+        "link": "https://www.ajc.com/news/local/fulton-denies-23m-covid-jail-isolation-units-amid-protests/9FrjRqm4qRwacUqyUIwhZL/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Minneapolis Parks and Recreation cut ties with the Minneapolis Police Dept",
+        "description": "",
+        "location": "Minneapolis, MN",
+        "date": "03 June 2020",
+        "link": "https://www.startribune.com/park-board-votes-unanimously-to-end-working-with-police-in-minneapolis/570982312/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "LA Announces $100-150 million cut from LAPD budget, Reinvested into communities, moratorium on gang database, sharper discipline against abusive cops, in effect immediately",
+        "description": "",
+        "location": "Los Angeles, CA",
+        "date": "03 June 2020",
+        "link": "https://www.latimes.com/california/story/2020-06-05/eric-garcetti-lapd-budget-cuts-10000-officers-protests",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Seattle changes mind and withdraws request to end federal oversight/consent decree of police department",
+        "description": "",
+        "location": "Seattle, WA",
+        "date": "03 June 2020",
+        "link": "https://www.seattlepi.com/local/politics/article/Seattle-withdraws-motion-to-lift-consent-decree-15315718.php",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "#BreonnaTaylor case reopened",
+        "description": "",
+        "location": "Louisville, KY",
+        "date": "04 June 2020",
+        "link": "https://www.cnn.com/2020/06/05/us/breonna-taylor-birthday-charges-arrests-case-trnd/index.html",
+        "protest": "Breonna Taylor",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Portland schools superintendent ‘discontinues’ presence of armed police officers in schools",
+        "description": "",
+        "location": "Portland, OR",
+        "date": "04 June 2020",
+        "link": "https://www.opb.org/news/article/superintendent-says-discontinue-police-presence-portland-schools//",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "MBTA (Metro Boston) board orders that buses won’t transport police to protests, or protesters to police",
+        "description": "",
+        "location": "Boston, MA",
+        "date": "04 June 2020",
+        "link": "https://www.wbur.org/news/2020/06/05/mbta-buses-police",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "King County Labor Federation issue ultimatum to police unions, to admit to and address racism in Seattle PD",
+        "description": "",
+        "location": "Seattle, WA",
+        "date": "04 June 2020",
+        "link": "http://mlklabor.org/news/mlk-labor-affirms-commitment-to-an-anti-racist-union-movement/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Mural of racist ex-Mayor Frank Rizzo to be removed, replaced with new artwork",
+        "description": "",
+        "location": "Philadelphia, PA",
+        "date": "04 June 2020",
+        "link": "https://www.phillyvoice.com/frank-rizzo-mural-south-philly-italian-market-mural-arts-philadelphia/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "City of Minneapolis bans all chokeholds by police",
+        "description": "",
+        "location": "Minneapolis, MN",
+        "date": "05 June 2020",
+        "link": "https://www.nbcnews.com/news/us-news/minneapolis-agrees-ban-police-chokeholds-following-death-george-floyd-n1226026#:~:text=The%20Minneapolis%20City%20Council%20voted,unanimously%20passed%20the%20new%20rules",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Racist ex-Mayor Hubbard statue removed",
+        "description": "",
+        "location": "Dearborn, MI",
+        "date": "05 June 2020",
+        "link": "https://www.freep.com/story/news/local/michigan/wayne/2020/06/05/statue-dearborn-mayor-orville-hubbard-removed/3161044001/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "NFL condemns racism and admits it should have listened to players protests",
+        "description": "",
+        "location": "United States",
+        "date": "05 June 2020",
+        "link": "https://www.theguardian.com/sport/2020/jun/05/roger-goodell-nfl-sorry-kneeling-protests-kaepernick",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "California Gov. Newsom calls for statewide use-of-force standard, crafted with community leaders, and ban carotid hold",
+        "description": "",
+        "location": "California",
+        "date": "05 June 2020",
+        "link": "https://www.latimes.com/california/story/2020-06-05/california-police-use-of-force-rules-george-floyd-protests",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "2 Buffalo police officers suspended within a day of pushing 75 year old protestor to ground causing blood to pour out (and lying about it)",
+        "description": "",
+        "location": "Buffalo, NY",
+        "date": "05 June 2020",
+        "link": "https://www.washingtonpost.com/nation/2020/06/05/buffalo-officers-suspended-shoving-man/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Washington, DC paints a giant 'Black Lives Matter' message on the road to the White House",
+        "description": "",
+        "location": "Washington, DC",
+        "date": "05 June 2020",
+        "link": "https://www.cnn.com/2020/06/05/us/black-lives-matter-dc-street-white-house-trnd/index.html",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Minneapolis to disband Police, create new community focused policing intiative",
+        "description": "",
+        "location": "Minneapolis, MN",
+        "date": "07 June 2020",
+        "link": "https://www.cnbc.com/2020/06/08/majority-at-the-minneapolis-city-council-support-disbanding-police-force.html",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "The New York Times on Sunday announced the resignation of its editorial page editor, James Bennet. The announcement comes four days after the newspaper published a controversial op-ed from Sen. Tom Cotton (R.-Ark.) that called for military intervention in U.S. cities wracked by protests over police violence.",
+        "description": "",
+        "location": "United States",
+        "date": "07 June 2020",
+        "link": "https://www.nytimes.com/2020/06/07/business/media/james-bennet-resigns-nytimes-op-ed.html",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Protesters in the English city of Bristol toppled a statue of the 17th-century merchant, politician and slave trader Edward Colston on Sunday.",
+        "description": "",
+        "location": "Bristol, England",
+        "date": "07 June 2020",
+        "link": "https://www.bbc.com/news/uk-england-bristol-52955868",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Prominent Republican Mitt Romney marches in anti-racism protests 'to make sure that people understand that black lives matter'",
+        "description": "",
+        "location": "United States",
+        "date": "07 June 2020",
+        "link": "https://www.deseret.com/utah/2020/6/7/21283374/george-floyd-protest-mitt-romney-march-demonsration-washington-black-lives-matter",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    }
+    ]
 }

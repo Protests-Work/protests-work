@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "protests-work",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "A website demonstrating that protests work. Make your voice heard.",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -27,9 +27,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/Protests-Work/protests-work"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/Protests-Work/protests-work/issues"
   }
 }
