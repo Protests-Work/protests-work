@@ -26,8 +26,8 @@ export default {
         '950px'
       ],
       shadows: {
-        small: '0 0 4px rgba(0, 0, 0, .125)',
-        large: '0 0 24px rgba(0, 0, 0, .125)'
+        small: '2px 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -2px rgba(0, 0, 0, 0.08)',
+        large: '4px 20px 30px -6px rgba(0, 0, 0, 0.3), 0 4px 6px -2px rgba(0, 0, 0, 0.08)',
       },
       fonts: {
         body: 'Lato, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
@@ -160,5 +160,26 @@ export default {
         img: {
           maxWidth: '100%'
         }
+      },
+      variants: {
+        cardCompact: {
+          padding: 4,
+          boxShadow: 'small',
+          bg: 'background',
+          display: 'flex',
+          flexWrap: "wrap",
+          marginTop: 3,
+          marginBottom: 3,
+          flex: ['0 1 100%', '0 1 48%'],
+          maxWidth: ['100%', '48%'],
+          '&:hover' : {
+            boxShadow: 'large',
+            cursor: 'pointer'
+          }
+        },
+        cardLink: {
+          textDecoration: 'none',
+          color: 'primary'
+        },
       }
   }
