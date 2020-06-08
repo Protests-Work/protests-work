@@ -5,6 +5,15 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: "Protests Work",
+    titleTemplate: "%s | See the impact from Protesting",
+    description:
+      "In the wake of the nearly unprecedented protests on racial inequality, police brutality, and killings of people of color by police, this site was established to document the effects of those protests and the outcomes achieved.",
+    url: "https://www.protestswork.com", // No trailing slash allowed!
+    // image: "/images/snape.jpg", // Path to your image you placed in the 'static' folder
+    // twitterUsername: "@occlumency",
+  },
   plugins: [
     { resolve: 'gatsby-plugin-theme-ui',
       options: {
