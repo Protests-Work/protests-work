@@ -37,4 +37,4 @@ jobs:
       with:
         dest-s3-bucket: protests-work-s3
         # Cloudfront ID to invalidate
-        cloudfront-id-to-invalidate: E3RF625Z84BVKP `# optional
+        cloudfront-id-to-invalidate: E3RF625Z84BVKP
