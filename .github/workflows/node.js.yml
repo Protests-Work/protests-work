@@ -27,6 +27,7 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     - name: Configure AWS Credentials
+      if: ${{ github.ref == master }}
       uses: aws-actions/configure-aws-credentials@v1
       with:
         aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
@@ -34,6 +35,7 @@ jobs:
         aws-region: us-east-1
     - name: Deploy
       uses: jonelantha/gatsby-s3-action@v1
+      if: ${{ github.ref == master }}
       with:
         dest-s3-bucket: protests-work-s3
         # Cloudfront ID to invalidate
