@@ -20,7 +20,7 @@ const Nav: FC<Props & JSX.IntrinsicElements["nav"]> = ({
         <Link href="/" variant="nav" fontSize={3}>
           Protests Work
         </Link>
-        <Link href="/about" variant="nav">
+        <Link href="/about.html" variant="nav">
           About
         </Link>
       </Container>
