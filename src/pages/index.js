@@ -15,7 +15,7 @@ const Home = () => {
         <Flex flexWrap="wrap" justifyContent="space-between">
           {PAGECONTENT.articles.reverse().map((item) => (
             <Card bg="white" variant="cardCompact">
-              <Link href={item.link} variant="cardLink" data-gtm-links={item.link}>
+              <Link href={item.link} variant="cardLink" data-gtm-links={item.link} target="_blank">
                 <h3>{item.title}</h3>
                 <Box>
                   <p>{item.date} | {item.location} | {item.protest}</p>
