@@ -13,6 +13,12 @@ module.exports = {
       }
     },
     {
+      resolve: "gatsby-plugin-google-tagmanager",
+      options: {
+        id: "GTM-TZZQ3M7",
+      },
+    },
+    {
       resolve: `gatsby-plugin-webfonts`,
       options: {
         fonts: {
