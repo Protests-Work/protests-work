@@ -1,9 +1,12 @@
 import React from "react";
 import PAGECONTENT from "../content/impact.json";
 import { Card, Box, Link, Flex} from 'rebass';
+import SEO from '../components/seo/seo';
 
 const Home = () => {
   return (
+    <div>
+    <SEO />
     <Box
       sx={{
         maxWidth: 1024,
@@ -28,6 +31,7 @@ const Home = () => {
       ))}
     </Flex>
     </Box>
+    </div>
   )
 }
 
