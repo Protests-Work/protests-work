@@ -34,7 +34,7 @@ This site is built using Gatsby, reading from a json file, and then deployed to 
                 "Tag2"
             ]
           }
-          ```
+    ```
     4. Paste at the bottom of the impact.json document following the comma you placed earlier and prior to the ]
     5. Edit your effect with the fields.
     6. Submit a branch/PR with the commit message: `content: <fill in descriptive commit message here>`
