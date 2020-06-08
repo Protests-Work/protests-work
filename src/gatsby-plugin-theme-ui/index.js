@@ -181,5 +181,12 @@ export default {
           textDecoration: 'none',
           color: 'primary'
         },
+        nav: {
+          fontWeight: 'bold',
+          color: 'primary',
+          textDecoration: 'none',
+          fontSize: 2,
+          mr: 3
+        },
       }
   }
