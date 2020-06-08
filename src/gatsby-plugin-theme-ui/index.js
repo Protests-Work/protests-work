@@ -183,7 +183,7 @@ export default {
         },
         nav: {
           fontWeight: 'bold',
-          color: 'primary',
+          color: 'white',
           textDecoration: 'none',
           fontSize: 2,
           mr: 3

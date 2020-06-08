@@ -15,9 +15,9 @@ const Nav: FC<Props & JSX.IntrinsicElements["nav"]> = ({
   id = ""
 }) => {
   return (
-    <Box as="nav" id={id} className={className} py={3}>
+    <Box as="nav" id={id} className={className} py={3} bg='primary'>
       <Container>
-        <Link href="/" variant="nav" fontSize={5}>
+        <Link href="/" variant="nav" fontSize={3}>
           Protests Work
         </Link>
         <Link href="/about" variant="nav">
