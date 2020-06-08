@@ -10,7 +10,7 @@
 
 This repo is dedicated to enuring that the fruits of democratic protests around the world are heard and seen directly. This grew out of the protests for Geroge Floyd in 2020 in the United States, but will try to document previous and new protests from all around the world.
 
-View the site [here](www.protestswork.com)
+View the site [here](https://www.protestswork.com)
 
 
 This site is built using Gatsby, reading from a json file, and then deployed to S3 with cloudfront in front
