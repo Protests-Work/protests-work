@@ -799,6 +799,40 @@
             "Breonna Taylor",
             "DavidMcatee"
         ]
+    },
+    {
+        "title": "University of Alabama Take down plaques and memorials",
+        "description": "The University of Alabama took down memorials to confederate soldiers and removed plaques honoring students who served in the COnfederate Army and Student Cadet Corps. A school offical said theyäd be displayed in a more appropriate historial setting.",
+        "location": "Birmingham, AL",
+        "date": "08 June 2020",
+        "link": "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/08/872659015/protests-are-bringing-down-confederate-monuments-around-the-south",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
+    },
+    {
+        "title": "Antwerp Authorities Remove Statue of King Leopold II",
+        "description": "Following the Black Lives Matter Protests authorities in Belgium removed a statue of belgian King Leopold II",
+        "location": "Antwerp, Belgium",
+        "date": "08 June 2020",
+        "link": "https://twitter.com/jackeparrock/status/1270313880800149504?s=19",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee"
+        ]
     }
     ]
 }
