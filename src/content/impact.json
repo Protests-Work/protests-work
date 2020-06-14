@@ -1064,11 +1064,29 @@
         ]
     },
     {
-        "title": "Lousiville Council Votes to change No Knock Warrants",
+        "title": "Williamsburg Begins Process for Removal of Confederate Monuments",
         "description": "",
         "location": "Williamsburg, VA",
         "date": "11 June 2020",
         "link": "https://www.wavy.com/news/local-news/williamsburg-starts-process-for-removal-of-its-confederate-memorial/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones"
+        ]
+    },
+    {
+        "title": "New Jersey Police Officer Charged with Assault after Pepper Spraying without provocation",
+        "description": "",
+        "location": "New Jersey",
+        "date": "12 June 2020",
+        "link": "https://www.cnn.com/2020/06/12/us/nj-police-arrest-pepper-spray/index.html",
         "protest": "Breonna Taylor",
         "tags": [
             "Police Brutality",
@@ -1079,6 +1097,99 @@
             "Breonna Taylor",
             "DavidMcatee",
             "Wayne Jones"
+        ]
+    },
+    {
+        "title": "San Francisco will now utilize trained professionals to respond to non-criminal calls",
+        "description": "",
+        "location": "San Francisco, CA",
+        "date": "12 June 2020",
+        "link": "https://www.businessinsider.com/san-francisco-police-will-no-longer-respond-non-criminal-calls-2020-6",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones"
+        ]
+    },
+    {
+        "title": "Minneapolis Officers Quit in Wake of Geroge Floyd Protests",
+        "description": "",
+        "location": "Minneapolis, MN",
+        "date": "14 June 2020",
+        "link": "https://apnews.com/c5b4a3c8ac617d65d221fbf86337d138",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones"
+        ]
+    },
+    {
+        "title": "Atlanta Police Chief Resigns After Fatal Shooting",
+        "description": "",
+        "location": "Atlanta, GA",
+        "date": "13 June 2020",
+        "link": "https://apnews.com/4a297ba576eb60e77e8c302686a877e7",
+        "protest": "Rayshard Brooks",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    },
+    {
+        "title": "Atlanta Officer Fired after Fatal Shooting of Rayshard Brooks",
+        "description": "",
+        "location": "Atlanta, GA",
+        "date": "13 June 2020",
+        "link": "https://apnews.com/e5741e6b7d1a3c9be991201d21b90e13",
+        "protest": "Rayshard Brooks",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    }
+    {
+        "title": "NY Gov. Cuomo Signs POlice Reform Legislation into Law",
+        "description": "Repeal Seciont 50+a of the Civil Rights Law which provides additional protection for police officers, firefighters, and corrections officers. Create Office of Special Investigation within AGs office to investigate deaths caused by police officer and peace officer. Clarifies that a person not under arrest or in custody has the right ot record police activity, devices used to record, and recordings. Prohibits use of chokeholds by law enforcement and establishes it as a crime. Create an misconduct investigateive office to sutdy, audit, and recommend changes to operations, policies programs and practices of law enforcement. Require courts to compile and publish racial and other demographic data on all low level offenses. Mandates body cameras for officers. Require officers to report within six hours discharging of weapons whether on or off duty.",
+        "location": "Atlanta, GA",
+        "date": "13 June 2020",
+        "link": "https://www.pix11.com/news/america-in-crisis/gov-cuomo-signs-police-reform-legislation-including-repeal-of-50-a-into-law",
+        "protest": "Rayshard Brooks",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
         ]
     }
     ]
