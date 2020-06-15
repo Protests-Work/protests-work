@@ -14,7 +14,7 @@ const searchOptions =  {
     // useExtendedSearch: false,
     keys: [
     "title",
-    "protest"
+    "protest",
     "tags"
     ]
 };
