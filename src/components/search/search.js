@@ -29,4 +29,4 @@ function fuseSearch(pattern, fuse=fuse) {
     return fuse.search(pattern)
 }
 
-export default fuseSearch()
+export default fuseSearch(pattern, fuse)
