@@ -163,6 +163,12 @@ export default {
     },
     variants: {
       cardCompact: {
+        p: {
+          color: 'white'
+        },
+        h3: {
+          color: 'white'
+        },
         padding: 4,
         boxShadow: 'small',
         bg: 'background',
@@ -171,10 +177,17 @@ export default {
         marginTop: 3,
         marginBottom: 3,
         flex: ['0 1 100%', '0 1 48%'],
-        maxWidth: ['100%', '48%'],
+        maxWidth: ['100%', '33%'],
         '&:hover' : {
           boxShadow: 'large',
-          cursor: 'pointer'
+          cursor: 'pointer',
+          backgroundColor: 'yellow',
+          p: {
+            color:'black',
+          },
+          h3: {
+            color: 'black'
+          }
         }
       },
       cardLink: {
