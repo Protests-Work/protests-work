@@ -1160,6 +1160,63 @@
         "location": "Atlanta, GA",
         "date": "13 June 2020",
         "link": "https://apnews.com/e5741e6b7d1a3c9be991201d21b90e13",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    },
+    {
+        "title": "Denver School Board votes to end contract with Denver PD",
+        "description": "",
+        "location": "Denver, CO",
+        "date": "13 June 2020",
+        "link": "https://www.denverpost.com/2020/06/13/colorado-police-reform-bill-passes-legislature/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    },
+    {
+        "title": "Albuquerque will use Social Workers to respond to certain 911 calls",
+        "description": "",
+        "location": "Albuquerque, NM",
+        "date": "15 June 2020",
+        "link": "https://thehill.com/homenews/state-watch/502856-albuquerque-will-use-social-workers-to-respond-to-certain-911-calls",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    },
+    {
+        "title": "Former Atlanta Officer Who Shot Rayshard Brooks Charged with Murder, Other Offenses",
+        "description": "",
+        "location": "Atlanta, GA",
+        "date": "17 June 2020",
+        "link": "https://www.washingtonpost.com/national-security/former-atlanta-officer-who-shot-rayshard-brooks-charged-with-murder-other-offenses/2020/06/17/abb1a638-b0c2-11ea-856d-5054296735e5_story.html",
         "protest": "Rayshard Brooks",
         "tags": [
             "Police Brutality",
@@ -1174,8 +1231,46 @@
         ]
     },
     {
-        "title": "NY Gov. Cuomo Signs POlice Reform Legislation into Law",
-        "description": "Repeal Seciont 50+a of the Civil Rights Law which provides additional protection for police officers, firefighters, and corrections officers. Create Office of Special Investigation within AGs office to investigate deaths caused by police officer and peace officer. Clarifies that a person not under arrest or in custody has the right ot record police activity, devices used to record, and recordings. Prohibits use of chokeholds by law enforcement and establishes it as a crime. Create an misconduct investigateive office to sutdy, audit, and recommend changes to operations, policies programs and practices of law enforcement. Require courts to compile and publish racial and other demographic data on all low level offenses. Mandates body cameras for officers. Require officers to report within six hours discharging of weapons whether on or off duty.",
+        "title": "Officer Involved in Breonna Taylor Shooting to be Fired",
+        "description": "",
+        "location": "Loouisville, KY",
+        "date": "19 June 2020",
+        "link": "https://apnews.com/9f30b72a1b43ceffacfe394d9450ee7c",
+        "protest": "Breonna Taylor",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    },
+    {
+        "title": "Colorado Among First in US to Pass Police Reforms",
+        "description": "",
+        "location": "Denver, CO",
+        "date": "11 June 2020",
+        "link": "https://www.denverpost.com/2020/06/13/colorado-police-reform-bill-passes-legislature/",
+        "protest": "Rayshard Brooks",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    },
+    {
+        "title": "NY Gov. Cuomo Signs Police Reform Legislation into Law",
+        "description": "Repeal Section 50(a) of the Civil Rights Law which provides additional protection for police officers, firefighters, and corrections officers. Create Office of Special Investigation within AGs office to investigate deaths caused by police officer and peace officer. Clarifies that a person not under arrest or in custody has the right ot record police activity, devices used to record, and recordings. Prohibits use of chokeholds by law enforcement and establishes it as a crime. Create an misconduct investigateive office to sutdy, audit, and recommend changes to operations, policies programs and practices of law enforcement. Require courts to compile and publish racial and other demographic data on all low level offenses. Mandates body cameras for officers. Require officers to report within six hours discharging of weapons whether on or off duty.",
         "location": "Atlanta, GA",
         "date": "13 June 2020",
         "link": "https://www.pix11.com/news/america-in-crisis/gov-cuomo-signs-police-reform-legislation-including-repeal-of-50-a-into-law",
