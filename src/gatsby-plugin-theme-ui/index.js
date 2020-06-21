@@ -30,8 +30,8 @@ export default {
       large: '4px 20px 30px -6px rgba(0, 0, 0, 0.3), 0 4px 6px -2px rgba(0, 0, 0, 0.08)',
     },
     fonts: {
-      body: 'Lato, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
-      heading: 'Lato, san-serif',
+      body: 'Apercu, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
+      heading: 'Tiempos Headline, serif',
       monospace: 'Menlo, monospace'
     },
     fontSizes: [
