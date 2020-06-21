@@ -6,9 +6,9 @@ const Container = ({children}) => {
   return (
     <Box
       sx={{
-        maxWidth: 1024,
+        maxWidth: 2048,
         mx: 'auto',
-        px: 3,
+        px: 3
       }}>
       {children}
     </Box>
