@@ -1,9 +1,15 @@
 // src/gatsby-plugin-theme-ui/index.js
 export default {
   colors: {
+    black: '#000',
+    yellow: '#fce21b',
+    white: '#fff',
+    lightGray: '#bdbdbd',
+    gray: '#676767',
+    darkGreay: '#333',
     text: '#000',
     background: '#fff',
-    primary: '#011936',
+    primary: '#000',
     modes: {
       dark: {
         text: '#fff',
@@ -47,11 +53,12 @@ export default {
     ],
     fontWeights: {
       body: 400,
-      heading: 700,
+      heading: 600,
       bold: 700
     },
     text: {
       title: {
+        fontFamily: 'heading',
         fontSize: [5, 6]
       },
       heading: {
@@ -164,7 +171,6 @@ export default {
     variants: {
       cardCompact: {
         padding: 4,
-        boxShadow: 'small',
         bg: 'background',
         display: 'flex',
         flexWrap: "wrap",
@@ -173,7 +179,6 @@ export default {
         flex: ['0 1 100%', '0 1 48%'],
         maxWidth: ['100%', '48%'],
         '&:hover' : {
-          boxShadow: 'large',
           cursor: 'pointer'
         }
       },
@@ -181,12 +186,18 @@ export default {
         textDecoration: 'none',
         color: 'primary'
       },
-      nav: {
-        fontWeight: 'bold',
-        color: 'white',
+      navContainer: {
+        borderBottom: '1px solid #333'
+      },
+      navLink: {
+        color: 'text',
         textDecoration: 'none',
         fontSize: 2,
-        mr: 3
+        mr: 3,
+        '&:hover' : {
+          cursor: 'pointer',
+          textDecoration: 'underline'
+        }
       },
     }
 }
