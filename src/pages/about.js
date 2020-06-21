@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, Box, Link, Flex} from 'rebass';
+// import { Card, Box, Link, Flex} from 'rebass';
 import Container from '../components/container/container';
 import Layout from '../components/layout/layout';
 
