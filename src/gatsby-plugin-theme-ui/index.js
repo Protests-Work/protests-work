@@ -22,11 +22,11 @@ export default {
       4,
       8,
       16,
+      24,
       32,
       64,
-      128,
-      256,
-      512
+      80,
+      100
     ],
     breakpoints: [
       '950px'
@@ -59,7 +59,7 @@ export default {
     text: {
       title: {
         fontFamily: 'heading',
-        fontSize: [5, 6]
+        fontSize: [7, 8]
       },
       heading: {
         fontFamily: 'heading',
@@ -168,36 +168,59 @@ export default {
         maxWidth: '100%'
       }
     },
-    variants: {
-      cardCompact: {
-        padding: 4,
-        bg: 'background',
-        display: 'flex',
-        flexWrap: "wrap",
-        marginTop: 3,
-        marginBottom: 3,
-        flex: ['0 1 100%', '0 1 48%'],
-        maxWidth: ['100%', '48%'],
-        '&:hover' : {
-          cursor: 'pointer'
-        }
-      },
-      cardLink: {
-        textDecoration: 'none',
-        color: 'primary'
-      },
-      navContainer: {
-        borderBottom: '1px solid #333'
-      },
-      navLink: {
-        color: 'text',
-        textDecoration: 'none',
-        fontSize: 2,
-        mr: 3,
-        '&:hover' : {
-          cursor: 'pointer',
-          textDecoration: 'underline'
-        }
-      },
+  variants: {
+    card: {
+      border: '1px solid #333',
+      backgroundColor: 'transparent',
+      display: 'grid',
+      gridRowGap: '16px',
+      gridTemplateColumns: '1fr 24px',
+      gridTemplateRows: 'max-content 1fr max-content',
+      padding: 4,
+      transition: 'background-color 150ms ease-in-out',
+      '&:hover': {
+        bg: 'yellow',
+        cursor: 'pointer'
+      }
+    },
+    cardLink: {
+      textDecoration: 'none',
+      color: 'primary'
+    },
+    linkButton: {
+      alignItems: 'center',
+      bg: 'yellow',
+      color: 'black',
+      display: 'inline-grid',
+      gridTemplateColumns: 'max-content 1rem',
+      gridColumnGap: '.5rem',
+      padding: '0.875rem 1.275rem',
+      textDecoration: 'none',
+      '&:hover': {
+        bg: 'black',
+        color: 'white',
+        cursor: 'pointer'
+      }
+    },
+    navContainer: {
+      borderBottom: '1px solid #333'
+    },
+    navLink: {
+      color: 'text',
+      textDecoration: 'none',
+      fontSize: 2,
+      mr: 3,
+      '&:hover' : {
+        cursor: 'pointer',
+        textDecoration: 'underline'
+      }
+    },
+    tag: {
+      backgroundColor: 'rgba(0,0,0,0.75)',
+      color: 'white',
+      borderRadius: '20px',
+      fontSize: 0,
+      padding: '4px 8px'
     }
+  }
 }

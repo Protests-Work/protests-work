@@ -15,9 +15,9 @@ const Nav: FC<Props & JSX.IntrinsicElements["nav"]> = ({
   id = ""
 }) => {
   return (
-    <Box as="header" mb={4}>
+    <Box as="header">
       <Container>
-        <Flex justifyContent="space-between" as="nav" id={id} className={className} py={3} color='text' alignItems='center' variant="navContainer">
+        <Flex variant="navContainer" justifyContent="space-between" as="nav" id={id} className={className} py={3} alignItems="center">
           <Link href="/" variant="navLink" fontSize={3}>Protests Work</Link>
           <Link href="/about/index.html" variant="navLink">
             About
