@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx } from "@emotion/core";
 import { FC, ReactNode } from "react";
-import { Box, Link, Image } from "rebass";
+import { Box, Flex, Link } from "rebass";
 import Container from "../container/container";
 
 interface Props {
@@ -15,16 +15,17 @@ const Nav: FC<Props & JSX.IntrinsicElements["nav"]> = ({
   id = ""
 }) => {
   return (
-    <Box as="nav" id={id} className={className} py={3} bg='primary'>
+    <Box as="header">
       <Container>
-        <Link href="/" variant="nav" fontSize={3}>
-          Protests Work
-        </Link>
-        <Link href="/about/index.html" variant="nav">
-          About
-        </Link>
+        <Flex variant="navContainer" justifyContent="space-between" as="nav" id={id} className={className} py={3} alignItems="center">
+          <Link href="/" variant="navLink" fontSize={3}>Protests Work</Link>
+          <Link href="/about/index.html" variant="navLink">
+            About
+          </Link>
+        </Flex>
       </Container>
     </Box>
+
   );
 };
 

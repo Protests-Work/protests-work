@@ -1,9 +1,15 @@
 // src/gatsby-plugin-theme-ui/index.js
 export default {
   colors: {
+    black: '#000',
+    yellow: '#fce21b',
+    white: '#fff',
+    lightGray: '#bdbdbd',
+    gray: '#676767',
+    darkGreay: '#333',
     text: '#000',
     background: '#fff',
-    primary: '#011936',
+    primary: '#000',
     modes: {
       dark: {
         text: '#fff',
@@ -16,11 +22,11 @@ export default {
       4,
       8,
       16,
+      24,
       32,
       64,
-      128,
-      256,
-      512
+      80,
+      100
     ],
     breakpoints: [
       '950px'
@@ -30,8 +36,8 @@ export default {
       large: '4px 20px 30px -6px rgba(0, 0, 0, 0.3), 0 4px 6px -2px rgba(0, 0, 0, 0.08)',
     },
     fonts: {
-      body: 'Lato, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
-      heading: 'Lato, san-serif',
+      body: 'Apercu, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
+      heading: 'Tiempos Headline, serif',
       monospace: 'Menlo, monospace'
     },
     fontSizes: [
@@ -47,12 +53,13 @@ export default {
     ],
     fontWeights: {
       body: 400,
-      heading: 700,
+      heading: 600,
       bold: 700
     },
     text: {
       title: {
-        fontSize: [5, 6]
+        fontFamily: 'heading',
+        fontSize: [7, 8]
       },
       heading: {
         fontFamily: 'heading',
@@ -161,45 +168,59 @@ export default {
         maxWidth: '100%'
       }
     },
-    variants: {
-      cardCompact: {
-        p: {
-          color: 'white'
-        },
-        h3: {
-          color: 'white'
-        },
-        padding: 4,
-        boxShadow: 'small',
-        bg: 'background',
-        display: 'flex',
-        flexWrap: "wrap",
-        marginTop: 3,
-        marginBottom: 3,
-        flex: ['0 1 100%', '0 1 48%'],
-        maxWidth: ['100%', '33%'],
-        '&:hover' : {
-          boxShadow: 'large',
-          cursor: 'pointer',
-          backgroundColor: 'yellow',
-          p: {
-            color:'black',
-          },
-          h3: {
-            color: 'black'
-          }
-        }
-      },
-      cardLink: {
-        textDecoration: 'none',
-        color: 'primary'
-      },
-      nav: {
-        fontWeight: 'bold',
+  variants: {
+    card: {
+      border: '1px solid #333',
+      backgroundColor: 'transparent',
+      display: 'grid',
+      gridRowGap: '16px',
+      gridTemplateColumns: '1fr 24px',
+      gridTemplateRows: 'max-content 1fr max-content',
+      padding: 4,
+      transition: 'background-color 150ms ease-in-out',
+      '&:hover': {
+        bg: 'yellow',
+        cursor: 'pointer'
+      }
+    },
+    cardLink: {
+      textDecoration: 'none',
+      color: 'primary'
+    },
+    linkButton: {
+      alignItems: 'center',
+      bg: 'yellow',
+      color: 'black',
+      display: 'inline-grid',
+      gridTemplateColumns: 'max-content 1rem',
+      gridColumnGap: '.5rem',
+      padding: '0.875rem 1.275rem',
+      textDecoration: 'none',
+      '&:hover': {
+        bg: 'black',
         color: 'white',
-        textDecoration: 'none',
-        fontSize: 2,
-        mr: 3
-      },
+        cursor: 'pointer'
+      }
+    },
+    navContainer: {
+      borderBottom: '1px solid #333'
+    },
+    navLink: {
+      color: 'text',
+      textDecoration: 'none',
+      fontSize: 2,
+      mr: 3,
+      '&:hover' : {
+        cursor: 'pointer',
+        textDecoration: 'underline'
+      }
+    },
+    tag: {
+      backgroundColor: 'rgba(0,0,0,0.75)',
+      color: 'white',
+      borderRadius: '20px',
+      fontSize: 0,
+      padding: '4px 8px'
     }
+  }
 }
