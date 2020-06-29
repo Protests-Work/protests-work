@@ -381,7 +381,7 @@
         "location": "Denver, CO",
         "date": "03 June 2020",
         "link": "https://www.denverpost.com/2020/06/02/denver-police-officer-fired-lets-start-a-riot-george-floyd-protest/",
-        "protest": "George Floyd",
+        "protest": "Elijah McClain",
         "tags": [
             "Police Brutality",
             "George Floyd",
@@ -1179,7 +1179,7 @@
         "location": "Denver, CO",
         "date": "13 June 2020",
         "link": "https://www.denverpost.com/2020/06/13/colorado-police-reform-bill-passes-legislature/",
-        "protest": "George Floyd",
+        "protest": "Elijah McClain",
         "tags": [
             "Police Brutality",
             "George Floyd",
@@ -1233,10 +1233,48 @@
     {
         "title": "Officer Involved in Breonna Taylor Shooting to be Fired",
         "description": "",
-        "location": "Loouisville, KY",
+        "location": "Louisville, KY",
         "date": "19 June 2020",
         "link": "https://apnews.com/9f30b72a1b43ceffacfe394d9450ee7c",
         "protest": "Breonna Taylor",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    },
+    {
+        "title": "NC Governor Orders REmoval of Confederate Statues In Raleigh",
+        "description": "",
+        "location": "Raleigh, NC",
+        "date": "20 June 2020",
+        "link": "https://apnews.com/0b77eb86b863233f4c73a415e4f6956a",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    },
+    {
+        "title": "Charleston Votes to Remove Statue of Slavery Advocate",
+        "description": "",
+        "location": "Raleigh, NC",
+        "date": "23 June 2020",
+        "link": "https://apnews.com/3e3d4a9cf077ae2cb45f2fa1dc517d5d",
+        "protest": "George Floyd",
         "tags": [
             "Police Brutality",
             "George Floyd",
@@ -1255,7 +1293,7 @@
         "location": "Denver, CO",
         "date": "11 June 2020",
         "link": "https://www.denverpost.com/2020/06/13/colorado-police-reform-bill-passes-legislature/",
-        "protest": "Rayshard Brooks",
+        "protest": "Elijah McClain",
         "tags": [
             "Police Brutality",
             "George Floyd",
@@ -1275,6 +1313,101 @@
         "date": "13 June 2020",
         "link": "https://www.pix11.com/news/america-in-crisis/gov-cuomo-signs-police-reform-legislation-including-repeal-of-50-a-into-law",
         "protest": "Rayshard Brooks",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    },
+    {
+        "title": "Denver City Council Kills Cotnract Allowing Probabtion Officers in Denver Public Schools",
+        "description": "",
+        "location": "Denver, CO",
+        "date": "23 June 2020",
+        "link": "https://www.coloradopolitics.com/denver/denver-city-council-kills-contract-allowing-probation-officers-in-denver-public-schools/article_b7009898-b5a2-11ea-9c64-b7d2f7b1b6d8.html",
+        "protest": "Elijah McClain",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    },
+    {
+        "title": "Alabama Officer Fired Over Post of Protester in Rifle Scope",
+        "description": "",
+        "location": "Hoover, AL",
+        "date": "27 June 2020",
+        "link": "https://www.seattletimes.com/nation-world/nation/alabama-officer-fired-over-post-of-protester-in-rifle-scope/",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    },
+    {
+        "title": "Virginia School Board Votes to Rename Robert E Lee High School",
+        "description": "",
+        "location": "Springfield, VA",
+        "date": "27 June 2020",
+        "link": "https://www.msnbc.com/msnbc/watch/virginia-school-board-votes-to-rename-robert-e-lee-high-school-86277189529",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    },
+    {
+        "title": "Pelosi Pushes Senate with House Passage of George Floyd Bill",
+        "description": "",
+        "location": "United States",
+        "date": "26 June 2020",
+        "link": "https://apnews.com/49d9ec00012713177138c1097ee3821d",
+        "protest": "George Floyd",
+        "tags": [
+            "Police Brutality",
+            "George Floyd",
+            "BLM",
+            "Black Lives Matter",
+            "2020PoliceBrutality",
+            "Breonna Taylor",
+            "DavidMcatee",
+            "Wayne Jones",
+            "Rayshard Brooks"
+        ]
+    },
+    {
+        "title": "Colorado Governor Appoints State Attorney General to Investigate Elijah McClain Death",
+        "description": "",
+        "location": "Denver, CO",
+        "date": "26 June 2020",
+        "link": "https://www.msnbc.com/the-last-word/watch/colorado-governor-appoints-state-attorney-general-to-investigate-death-of-elijah-mcclain-86101061713",
+        "protest": "Elijah McClain",
         "tags": [
             "Police Brutality",
             "George Floyd",
