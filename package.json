@@ -2,7 +2,7 @@
   "name": "protests-work",
   "private": true,
   "description": "A website demonstrating that protests work. Make your voice heard.",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "license": "MIT",
   "url": "https://protestswork.com",
   "scripts": {
